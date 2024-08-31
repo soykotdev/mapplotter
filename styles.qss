@@ -1,0 +1,28 @@
+/* General styling for labels */
+QLabel {
+    color: #333;
+    font-size: 14px;
+}
+
+/* Styling for line edits */
+QLineEdit {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 14px;
+}
+
+/* Styling for dialog */
+QDialog {
+    background-color: #f0f0f0; /* Light gray */
+    border: 2px solid #ddd;
+    border-radius: 8px;
+}
+
+/* Styling for the credit label */
+creditLabel{
+    color: gray;
+    font-size: 10px;
+    text-align: center;
+}
+

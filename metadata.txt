@@ -1,0 +1,8 @@
+[general]
+name=MapPlotter
+description=Plugin to number plots sequentially
+version=1.2
+qgisMinimumVersion=3.0
+author=Soykot Hossain, Jr. GIS analyst
+email=soykot.sarker@smec.com
+icon=icons/icon.png
